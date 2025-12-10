@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "director": "Stanley Cubrick",
+    "genre": ["Sci-Fi", "Adventure"],
+    "rating": "8.3/10",
+    "description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+    "image": "/posters/2001-a-space-odyssey-1968.png",
+    "image_thumb": "/posters-thumbs/2001-a-space-odyssey-1968-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/oR_e9y-bka0",
+    "showtimes": {
+      "date": "2025-12-01",
+      "hall": "RedBull Hall",
+      "time": "18:00"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "genre": ["Horror", "Sci-Fi", "Thriller"],
+    "rating": "8.5/10",
+    "description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+    "image": "/posters/alien-1979.png",
+    "image_thumb": "/posters-thumbs/alien-1979-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/jQ5lPt9edzQ?si=yxfUW7ut70vJhCrl",
+    "showtimes": {
+      "date": "2025-12-03",
+      "hall": "Galaxy Hall",
+      "time": "21:30"
+    }
+  },
+  {
+    "id": 3,
+    "title": "El Mariachi",
+    "year": 1992,
+    "director": "Robert Rodriguez",
+    "genre": ["Action", "Crime"],
+    "rating": "6.8/10",
+    "description": "A traveling mariachi is mistaken for a murderous criminal and must hide from a gang bent on killing him.",
+    "image": "/posters/el-mariachi-1992.jpeg",
+    "image_thumb": "/posters-thumbs/el-mariachi-1992-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/QtNJsvpHye0?si=-ism3lXRW8cTUql-",
+    "showtimes": {
+      "date": "2025-12-04",
+      "hall": "Galaxy Hall",
+      "time": "17:15"
+    }
+  },
+   {
+    "id": 4,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "genre": ["Adventure", "Sci-Fi", "Thriller"],
+    "rating": "8.2/10",
+    "description": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+    "image": "/posters/jurassic-park-1993.jpg",
+    "image_thumb": "/posters-thumbs/jurassic-park-1993-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/QWBKEmWWL38?si=88dY3GvYZqVuvQqs",
+    "showtimes": {
+      "date": "2025-12-05",
+      "hall": "NeonWave Hall",
+      "time": "19:30"
+    }
+  },
+    {
+    "id": 5,
+    "title": "Let the Right One In",
+    "year": 2008,
+    "director": "Tomas Alfredson",
+    "genre": ["Horror", "Drama", "Romance"],
+    "rating": "7.8/10",
+    "description": "A bullied boy forms a unique friendship with his new neighbor, a peculiar girl with a dark secret.",
+    "image": "/posters/let-the-right-one-in-2008.jpg",
+    "image_thumb": "/posters-thumbs/let-the-right-one-in-2008-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/ICp4g9p_rgo?si=reEs06xiuODxcK_Q",
+     "showtimes": {
+      "date": "2025-12-07",
+      "hall": "Galaxy Hall",
+      "time": "15:00"
+    }
+  },
+     {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "rating": "8.8/10",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "image": "/posters/pulp-fiction-1994.jpg",
+    "image_thumb": "/posters-thumbs/pulp-fiction-1994-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/s7EdQ4FqbhY?si=LlVZWIqa2lL-DC05",
+     "showtimes": {
+      "date": "2025-12-08",
+      "hall": "RedBull Hall",
+      "time": "19:30"
+    }
+  },
+     {
+    "id": 7,
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "director": "James Cameron",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "rating": "8.6/10",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+    "image": "/posters/terminator-2-judgement-day-1991.jpg",
+    "image_thumb": "/posters-thumbs/terminator-2-judgement-day-1991-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/CRRlbK5w8AE?si=sk0KARoG-IA_pnq9",
+     "showtimes": {
+      "date": "2025-12-10",
+      "hall": "RedBull Hall",
+      "time": "21:30"
+    }
+  },
+     {
+    "id": 8,
+    "title": "The Thing",
+    "year": 1982,
+    "director": "John Carpenter",
+    "genre": ["Horror", "Sci-Fi", "Thriller"],
+    "rating": "8.2/10",
+    "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "image": "/posters/the-thing-1982.png",
+    "image_thumb": "/posters-thumbs/the-thing-1982-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/5ftmr17M-a4?si=ewejvwTQLDaWbrHv",
+     "showtimes": {
+      "date": "2025-12-11",
+      "hall": "NeonWave Hall",
+      "time": "19:30"
+    }
+  },
+     {
+    "id": 9,
+    "title": "Weapons",
+    "year": 2025,
+    "director": "Zach Cregger",
+    "genre": ["Crime", "Drama"],
+    "rating": "7.5/10",
+    "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "image": "/posters/weapons-2025.jpg",
+    "image_thumb": "/posters-thumbs/weapons-2025-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/OpThntO9ixc?si=2FrKSVA_xB24uj5I",
+     "showtimes": {
+      "date": "2025-12-13",
+      "hall": "Galaxy",
+      "time": "20:00"
+    }
+  },
+     {
+    "id": 10,
+    "title": "When a Stranger Calls",
+    "year": 1979,
+    "director": "Fred Walton",
+    "genre": ["Crime", "Drama"],
+    "rating": "6.4/10",
+    "description": "A police detective and a babysitter relive horror years later.",
+    "image": "/posters/when-a-stranger-calls-1979.jpeg",
+    "image_thumb": "/posters-thumbs/when-a-stranger-calls-1979-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/2oC4QJtPMH0?si=NmOaIlEUlKt2MILj",
+     "showtimes": {
+      "date": "2025-12-14",
+      "hall": "NeonWave Hall",
+      "time": "18:00"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "director": "Tim Burton",
+    "genre": ["Fantasy", "Romance", "Drama"],
+    "rating": "7.8/10",
+    "description": "The solitary life of an artificial man with scissors for hands is upended when he is taken in by a suburban family.",
+    "image": "/posters/edward-scissorhands-1990.jpeg",
+    "image_thumb": "/posters-thumbs/edward-scissorhands-1990-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/TBHIO60whNw?si=15_kcsNiaQjfxcYa",
+     "showtimes": {
+      "date": "2025-12-16",
+      "hall": "Galaxy Hall",
+      "time": "19:15"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Frankenweenie",
+    "year": 2012,
+    "director": "Tim Burton",
+    "genre": ["Animation", "Comedy", "Horror"],
+    "rating": "6.9/10",
+    "description": "When a boy's beloved dog passes away suddenly, he attempts to bring the animal back to life through a powerful science experiment.",
+    "image": "/posters/frankenweenie-2012.png",
+    "image_thumb": "/posters-thumbs/frankenweenie-2012-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/29vIJQohUWE?si=DV-bjbkKOSKcURQX",
+     "showtimes": {
+      "date": "2025-12-17",
+      "hall": "RedBull Hall",
+      "time": "17:15"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Hot Shots! Part Deux",
+    "year": 1993,
+    "director": "Jim Abrahams",
+    "genre": ["Parody", "Slapstick", "Action", "Comedy"],
+    "rating": "6.6/10",
+    "description": "\"Rambo\" parody in which Topper Harley leads a rescue team into Iraq to save Iraqi war prisoners and all of their previous rescue teams.",
+    "image": "/posters/hot-shots!-part-deux-1993.png",
+    "image_thumb": "/posters-thumbs/hot-shots!-part-deux-1993-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/1FkxFFAHMws?si=yphiuPglis5YiWTc",
+     "showtimes": {
+      "date": "2025-12-19",
+      "hall": "Galaxy",
+      "time": "20:30"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Midsommar",
+    "year": 2019,
+    "director": "Ari Aster",
+    "genre": ["Horror", "Drama"],
+    "rating": "7.1/10",
+    "description": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+    "image": "/posters/midsommar-2019.png",
+    "image_thumb": "/posters-thumbs/midsommar-2019-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/1Vnghdsjmd0?si=1VJdVEvrTwEWtrZ",
+     "showtimes": {
+      "date": "2025-12-20",
+      "hall": "RedBull Hall",
+      "time": "19:30"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Moon",
+    "year": 2009,
+    "director": "Duncan Jones",
+    "genre": ["Sci-Fi", "Drama", "Thriller"],
+    "rating": "7.9/10",
+    "description": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth, parcels of a resource that has helped diminish our plane.",
+    "image": "/posters/moon-2009.jpg",
+    "image_thumb": "/posters-thumbs/moon-2009-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/WWoDBcSW4_c?si=ega7lE6qu4p9Yz9J",
+     "showtimes": {
+      "date": "2025-12-22",
+      "hall": "Galaxy Hall",
+      "time": "20:00"
+    }
+  },
+  {
+    "id": 16,
+    "title": "The Invisible Maniac",
+    "year": 1990,
+    "director": "Adam Rifkin",
+    "genre": ["Horror", "Comedy"],
+    "rating": "4.3/10",
+    "description": "An invisible scientist escapes from an asylum and teaches high-school physics to nubile teens.",
+    "image": "/posters/the-invisible-maniac-1990.jpg",
+    "image_thumb": "/posters-thumbs/the-invisible-maniac-1990-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/QynNtGLmcFo?si=qKIXOlfs6cxop5TO",
+     "showtimes": {
+      "date": "2025-12-23",
+      "hall": "Galaxy Hall",
+      "time": "21:00"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Melancholia",
+    "year": 2011,
+    "director": "Lars von Trier",
+    "genre": ["Drama", "Sci-Fi"],
+    "rating": "7.1/10",
+    "description": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+    "image": "/posters/melancholia-2011.jpeg",
+    "image_thumb": "/posters-thumbs/melancholia-2011-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/6IZGwvxhXvw?si=604PpJ00CURX7Wgw",
+     "showtimes": {
+      "date": "2025-12-26",
+      "hall": "RedBull Hall",
+      "time": "17:30"
+    }
+  },
+  {
+    "id": 18,
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "director": "Daniel Myrick & Eduardo Sánchez",
+    "genre": ["Horror", "Thriller", "Mystery"],
+    "rating": "6.5/10",
+    "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+    "image": "/posters/the-blair-witch-project-1999.png",
+    "image_thumb": "/posters-thumbs/the-blair-witch-project-1999-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/MBZ-POVsrlI?si=heA5jwdpmEy26bMJ",
+     "showtimes": {
+      "date": "2025-12-27",
+      "hall": "RedBull Hall",
+      "time": "21:30"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Village of the Damned",
+    "year": 1995,
+    "director": "John Carpenter",
+    "genre": ["Horror", "Sci-Fi"],
+    "rating": "5.7/10",
+    "description": "A small town's women give birth to unfriendly alien children posing as humans.",
+    "image": "/posters/village-of-the-damned-1995.jpg",
+    "image_thumb": "/posters-thumbs/village-of-the-damned-1995-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/qSIRK3MtIQ4?si=ZIacIOTogrkipFJi",
+     "showtimes": {
+      "date": "2025-12-29",
+      "hall": "RedBull Hall",
+      "time": "19:00"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Goodnight Mommy",
+    "year": "2014",
+    "director": ["Severin Fiala", "Veronika Franz"],
+    "genre": ["Body Horror", "Folk Horror", "Psychological Horror"],
+    "rating": "6.7/10",
+    "description": "Twin boys move to a new house with their mother after she has face-changing cosmetic surgery, but under the bandages is someone the boys don't recognize.",
+    "image": "/posters-thumbs/goodnight-mommy-2014.jpg",
+    "image_thumb": "/posters-thumbs/goodnight-mommy-2014-thumb.jpg",
+    "trailer": "https://www.youtube.com/embed/HCjApb9EDcg?si=Y9e_FbdcNvWdjS5k",
+     "showtimes": {
+      "date": "2025-12-30",
+      "hall": "Galaxy Hall",
+      "time": "11:00"
+    }
+  }
+]

@@ -1,0 +1,141 @@
+@import 'tailwindcss';
+
+@layer utilities {
+  @keyframes modal-pop {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+
+    70% {
+      opacity: 1;
+      transform: scale(1.05);
+    }
+
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .animate-modal-pop {
+    animation: modal-pop 0.35s ease-out forwards;
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: -200px 0;
+    }
+
+    100% {
+      background-position: 200px 0;
+    }
+  }
+
+  .animate-shimmer {
+    background: linear-gradient(90deg, #ffffff 0%, #8888 50%, #ffffff 100%);
+    background-size: 200px 100%;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: shimmer 4s linear infinite;
+  }
+}
+
+h1,
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+  background: #606c88;
+  background: -webkit-linear-gradient(to left, #3f4c6b, #606c88);
+  background: linear-gradient(to left, #3f4c6b, #606c88);
+}
+
+figcaption {
+  background: #7a86a5;
+}
+
+.scroll-left-btn,
+.scroll-left-btn {
+  color: white;
+  background: #7a86a5;
+}
+
+/* Hide scrollbars for all browsers */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Табс копчињата „Детали за филмот„ и „термини“ */
+.tabs {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 17px;
+  padding-bottom: 4px;
+}
+
+/* секој таб копче */
+.tab-btn {
+  position: relative;
+  background: none;
+  border: none;
+  padding: 6px 0;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.tab-btn::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background: #ff3b3b;
+  transition: width 0.3s ease;
+}
+
+/* Доколку некој од овие табови/копчиња е избрано, линијата се шири под целото копче */
+.tab-btn.active::after {
+  width: 100%;
+}
+
+/*  најпрвин ја дефинираме анимацијата, и кажуваме што да прави, од каде до каде да се движи, opacity, transform итн. */
+@keyframes slideInRight {
+  0% {
+    transform:  translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(0);
+    opacity: 1
+  }
+}
+
+/* Потоа ја дефинираме класата која ја користи таа анимација */
+.slide-in-right {
+  animation: slideInRight 0.5s ease-out forwards;
+}
+
+@keyframes slideOutRight {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(100%);
+    opacity: 0;
+  }
+}
+
+.slide-out-right {
+  animation: slideOutRight 0.5s ease-out forwards;
+}
